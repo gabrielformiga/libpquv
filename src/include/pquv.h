@@ -1,7 +1,7 @@
 #pragma once
 
 #include <uv.h>
-#include <postgresql/libpq-fe.h>
+#include <libpq-fe.h>
 
 struct pquv_st;
 typedef struct pquv_st pquv_t;
